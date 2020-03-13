@@ -13,4 +13,5 @@ public class TestMessageBuilder {
         assertEquals("Hello mkyong", obj.getMessage("mkyong"));
 
     }
+}
 
